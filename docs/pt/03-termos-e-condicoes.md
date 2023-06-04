@@ -5,7 +5,6 @@ permalink: /termos-e-condicoes/
 lang: pt
 weight: 3 
 ---
-**Termos e Condições**
 
 Ao baixar ou usar o aplicativo, estes termos serão automaticamente aplicados a você - certifique-se, portanto, de lê-los atentamente antes de usar o aplicativo. Você não tem permissão para copiar ou modificar o aplicativo, qualquer parte do aplicativo ou nossas marcas registradas de qualquer forma. Você não tem permissão para tentar extrair o código-fonte do aplicativo e também não deve tentar traduzir o aplicativo para outros idiomas ou criar versões derivadas. O próprio aplicativo e todas as marcas registradas, direitos autorais, direitos de banco de dados e outros direitos de propriedade intelectual relacionados a ele ainda pertencem à Recipe Kraken Engine.
 
