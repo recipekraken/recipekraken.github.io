@@ -7,8 +7,6 @@ weight: 2
 ---
 
 
-# Política de Privacidade
-
 O Recipe Kraken Engine desenvolveu o aplicativo Recipe Kraken como um aplicativo gratuito. Este SERVIÇO é fornecido pelo Recipe Kraken Engine sem custo algum e destina-se ao uso como está.
 
 Esta página é utilizada para informar os visitantes sobre as políticas de coleta, uso e divulgação de Informações Pessoais, caso alguém decida usar o Serviço.
