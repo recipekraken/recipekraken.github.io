@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Termos e Condiçoes
+title: Termos e Condições
 permalink: /termos-e-condicoes/
 lang: pt
 weight: 3 
